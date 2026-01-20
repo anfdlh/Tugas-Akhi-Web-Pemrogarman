@@ -9,18 +9,18 @@
 
 # 👻 CAMPNOMALI Web Project
 
-> **"A Space to Grow, A Place to Belong. Anti drama, full ketawa!"**
+> **"A Space to Grow, A Place to Belong."**
 
 Website ini adalah platform komunitas online yang dibangun untuk memenuhi Tugas Akhir Semester. Proyek ini mengimplementasikan desain web modern dengan gaya **"Toon"** yang interaktif, penuh warna, dan responsif.
 
-## � Preview Tampilan
+## Preview Tampilan
 
 Berikut adalah cuplikan tampilan antarmuka website CAMPNOMALI:
 
 ![Halaman Utama](assets/img/preview.png)
 *Landing page dengan animasi blob & kartu*
 
-## �🛠️ Teknologi Web
+## 🛠️ Teknologi Web
 Project ini dibangun dengan **Stack Modern** tanpa framework berat:
 
 *   **HTML5** - Struktur semantik halaman yang rapi.
@@ -73,11 +73,11 @@ Project ini dibangun dengan **Stack Modern** tanpa framework berat:
 ### 💻 Dibuat dengan penuh dedikasi oleh:
 
 **Aan Fadlilah**
-mahasiswa Teknik Informatika / Sistem Informasi
-Semester Akhir
+Teknik Informatika
 
 *"Coding is not just about logic, it's about creating art that functions."*
 
 &copy; 2025 - 2026 Campnomali Project. All Rights Reserved.
 
 </div>
+
